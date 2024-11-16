@@ -28,9 +28,6 @@ You can navigate the following sections to begin your journey:
 
 ## Detailed Sections
 
-### [Rootin’ Down, Standin’ Up](#rootin-down-standin-up)
-This section is about grounding your body, reconnecting with the earth, and aligning your posture to create a strong foundation. It's where everything begins.
-
 ### [Breathin’ Life, Movin’ Easy](#breathin-life-movin-easy)
 Learn to move your body with ease while breathing deeply, allowing each motion to stretch and release tension from your fascia. 
 
