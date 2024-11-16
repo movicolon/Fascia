@@ -6,7 +6,7 @@ Each section of the map represents a unique phase of healing and movement. The b
 
 You can navigate the following sections to begin your journey:
 
-1. [**Rootin’ Down, Standin’ Up**](#raw.githubusercontent.com/movicolon/Fascia/refs/heads/main/rootin-down-standin-up)  
+1. [**Rootin’ Down, Standin’ Up**](raw.githubusercontent.com/movicolon/Fascia/refs/heads/main/rootin-down-standin-up)  
    Establish a solid foundation, connecting with the earth and aligning your body’s structure.
 
 2. [**Breathin’ Life, Movin’ Easy**](#breathin-life-movin-easy)  
@@ -21,7 +21,7 @@ You can navigate the following sections to begin your journey:
 5. [**Resonatin’ the Web, Sound & Vibration**](#resonatin-the-web-sound-vibration)  
    Use sound and movement to energize your fascia and restore its vibrational harmony.
 
-6. [**Stillness to Heal, Quieting the Body**](#https://raw.githubusercontent.com/movicolon/Fascia/refs/heads/main/stillness-to-heal-quieting-the-body)  
+6. [**Stillness to Heal, Quieting the Body**](https://raw.githubusercontent.com/movicolon/Fascia/refs/heads/main/stillness-to-heal-quieting-the-body)  
    Enter a state of quiet to allow the fascia to fully restore and heal.
 
 ---
