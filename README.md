@@ -40,9 +40,6 @@ Create a sacred structure by focusing on your posture and visualizing the fascia
 ### [Resonatin’ the Web, Sound & Vibration](#resonatin-the-web-sound-vibration)
 This section connects the sound of your movements and energy to the fascia, using vibration to realign and energize your body.
 
-### [Stillness to Heal, Quieting the Body](#stillness-to-heal-quieting-the-body)
-Conclude with a time of stillness, allowing the body to rest and the fascia to absorb the healing energy.
-
 ---
 
 By following these steps, you align your body, unlock the flow of energy, and restore your fascia to its optimal state. Feel free to revisit any section as you go deeper into your practice.
