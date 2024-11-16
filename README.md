@@ -6,7 +6,7 @@ Each section of the map represents a unique phase of healing and movement. The b
 
 You can navigate the following sections to begin your journey:
 
-1. [**Rootin’ Down, Standin’ Up**](raw.githubusercontent.com/movicolon/Fascia/refs/heads/main/rootin-down-standin-up)  
+1. [**Rootin’ Down, Standin’ Up**](https://raw.githubusercontent.com/movicolon/Fascia/refs/heads/main/rootin-down-standin-up)  
    Establish a solid foundation, connecting with the earth and aligning your body’s structure.
 
 2. [**Breathin’ Life, Movin’ Easy**](#breathin-life-movin-easy)  
