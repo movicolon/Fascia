@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Justin's Credit Restoration Portal</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background: #f9fafb;
+      color: #333;
+      margin: 0;
+      padding: 0;
+    }
+    header {
+      background: #004aad;
+      color: white;
+      padding: 20px;
+      text-align: center;
+    }
+    main {
+      max-width: 800px;
+      margin: 30px auto;
+      padding: 20px;
+      background: white;
+      border-radius: 8px;
+      box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+    }
+    h2 {
+      color: #004aad;
+    }
+    .error-box {
+      background: #ffeaea;
+      border-left: 4px solid #cc0000;
+      padding: 15px;
+      margin-bottom: 20px;
+      border-radius: 5px;
+    }
+    .steps {
+      margin: 20px 0;
+      padding: 0;
+      list-style: none;
+    }
+    .steps li {
+      margin-bottom: 15px;
+      background: #eef4ff;
+      padding: 15px;
+      border-left: 4px solid #004aad;
+      border-radius: 4px;
+    }
+    footer {
+      text-align: center;
+      font-size: 0.9em;
+      color: #888;
+      margin-top: 40px;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Justin's Credit Restoration Portal</h1>
+    <p>“Restore. Rebuild. Rise.”</p>
+  </header>
+
+  <main>
+    <h2>⚠️ Common Errors Identified</h2>
+
+    <div class="error-box">
+      <strong>Error 1: Avoiding the Root Cause</strong><br/>
+      Justin did not review and dispute credit report errors or unpaid debts.
+    </div>
+
+    <div class="error-box">
+      <strong>Error 2: Neglecting Positive Credit Activity</strong><br/>
+      No new good history (on-time payments, low balances) was added.
+    </div>
+
+    <div class="error-box">
+      <strong>Error 3: Emotional Paralysis</strong><br/>
+      Fear, shame, or avoidance kept Justin from taking small daily action.
+    </div>
+
+    <h2>✅ Restoration Steps</h2>
+    <ul class="steps">
+      <li><strong>Step 1:</strong> Pull full credit reports from all 3 bureaus at <a href="https://www.annualcreditreport.com" target="_blank">AnnualCreditReport.com</a>.</li>
+      <li><strong>Step 2:</strong> Dispute errors or fraud directly through the bureaus.</li>
+      <li><strong>Step 3:</strong> Pay off small debts or negotiate settlements to clear accounts.</li>
+      <li><strong>Step 4:</strong> Open a secured credit card or credit-builder loan. Use 10% or less.</li>
+      <li><strong>Step 5:</strong> Set up autopay for at least one small recurring bill.</li>
+      <li><strong>Step 6:</strong> Track your score monthly. Stay consistent, not perfect.</li>
+    </ul>
+
+    <h2>📜 Covenant Reminder</h2>
+    <blockquote>
+      "If I succeed, let it bless seven generations. If I fail, let it be with honor."  
+      <br/><em>— Oath of the Living Covenant</em>
+    </blockquote>
+  </main>
+
+  <footer>
+    &copy; 2025 Justin David M. | Credit Stewardship Ministry
+  </footer>
+</body>
+</html>
